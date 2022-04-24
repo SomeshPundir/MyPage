@@ -1,0 +1,207 @@
+body{
+
+background-image:url("D:/WEBSITE-EDIT-NOTEPAD/nirogi foundation/annie-spratt-6a3nqQ1YwBw-unsplash.jpg");	
+}
+nav{
+
+
+}
+.navlogo{
+
+display:inline-block;
+
+text-align:right;
+
+
+
+
+}
+navlogo.hover{
+	
+}
+.navcontent{
+	background:pink;
+	
+	
+}
+
+h1{
+	color:white;
+
+	background:black;
+}
+div{
+	width:100%;
+	display:block;
+	background-image:url(" D:/WEBSITE-EDIT-NOTEPAD/nirogi foundation/textimg.jpg");
+	margin:20px;
+	clear:both;
+	transition:1s ease;
+	
+	
+}
+div img{
+	display:inline-block;
+	
+	width:25%;
+	
+	padding:10px;
+	
+}
+.div1:hover{
+	
+background-image:url("D:/WEBSITE-EDIT-NOTEPAD/nirogi foundation/WhatsApp Image 2022-03-13 at 8.47.48 PM.jpeg");
+	
+	
+}
+.div2:hover{
+	
+background-image:url("D:/WEBSITE-EDIT-NOTEPAD/nirogi foundation/WhatsApp Image 2022.jpeg");
+	
+	
+}
+.div3:hover{
+	
+background-image:url("D:/WEBSITE-EDIT-NOTEPAD/nirogi foundation/WhatsApp Image 2022-03-13 at 8.47.48 PM (2).jpeg");
+	
+	
+}
+
+img:hover{
+	width:250px;
+	background-color:#ffff00;
+	
+}
+div p{
+	font-family:georgia;
+	text-align:float;
+	 font-size:30px;
+	color:white;
+	width:100%;
+	margin-bottom:20%;
+}
+p{
+	font-size:40px;
+	text-align:center;
+	font-family:impact;
+	color:white;
+	
+}
+
+.header{
+	float:left;
+	background:pink;
+	margin-bottom:10px;
+	padding:0px;
+	border-radius:4%;
+	width:100%;
+	display:inline-block;
+	
+}
+
+.header li{
+text-align:center;
+width:20%;	
+}
+
+nav ul
+{
+	display:inline;
+	border:2px;
+	text-align:center;
+	padding:10px;
+	
+}
+nav li{
+	margin:25px;
+	font-size:25px;
+	display:inline;
+	width:20%;
+	text-align:center;
+	padding:5px;
+	
+	
+}
+nav a{
+	color:black;
+	
+	
+
+}
+nav li ul{
+	position:absolute;
+	display:block;
+	float:clear;
+	border:2px solid black;
+	background-color:pink;
+	display:none;
+	width:100%;
+	text-align:center;
+}
+nav li:hover ul{
+	display:block;
+	
+}
+nav li:hover ul li{
+	text-transform:none; /*this code is not working the sub  li: ul li hover effect isnt effected by it */
+	
+}
+
+nav a:hover{
+	color:blue;
+	
+	text-transform:uppercase;
+	text-decoration:none;
+
+	
+	
+}
+
+footer{
+	background:pink;
+	width:100%;
+	
+	
+	
+}
+footer h6{
+	text-align:center;
+	margin:10px;
+	padding:10px;
+	
+	
+}
+footer u
+{
+	display:inline;
+
+	border:2px;
+	text-align:center;
+	padding:10px;
+}
+footer li{
+	margin:25px;
+	font-size:25px;
+	display:inline;
+	text-align:center;
+	padding:15px;
+	
+	
+}
+
+footer a{
+	
+	color:blue;
+	margin:10px;
+	padding:10px;
+	
+}
+
+}
+footer a:hover{
+color:red;/*the anchor tag of fotter is not showing color while hovering.*/
+		
+}
+h6{
+	font-size:15px;
+}
